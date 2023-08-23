@@ -1,0 +1,13 @@
+<ID>01</ID>
+<Summary>git conquered</Summary>
+<Preconditions>git opened</Preconditions>
+<Severity>minor</Severity>
+<Priority>low</Severity> 
+<Status>opened</Status>
+<Author>IgorGA</Author>
+<Assigned>QA</Assigned>
+<Environment>Windows11</Environment>
+<Steps to reproduce>learn basic commands</Steps to reproduce>
+<Actual result>I think I know</Actual result>
+<Expected result>I know everything for sure</Expected result>
+<Attachments>screenshot</Attachments>
