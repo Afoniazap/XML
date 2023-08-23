@@ -7,7 +7,7 @@
 <Author>IgorGA</Author>
 <Assigned>QA</Assigned>
 <Environment>Windows11</Environment>
-<Steps to reproduce>learn basic commands</Steps to reproduce>
-<Actual result>I think I know</Actual result>
-<Expected result>I know everything for sure</Expected result>
+<Stepstoreproduce>learn basic commands</Stepstoreproduce>
+<Actualresult>I think I know</Actualresult>
+<Expectedresult>I know everything for sure</Expectedresult>
 <Attachments>screenshot</Attachments>
